@@ -1,3 +1,5 @@
+[AWS SQS Workshop.docx](https://github.com/user-attachments/files/33025723/AWS.SQS.Workshop.docx)
+[AWS SQS Workshop.docx](https://github.com/user-attachments/files/33025717/AWS.SQS.Workshop.docx)
 # AWS-SQS-Distributed-Messaging
 
 Hands-on AWS SQS project demonstrating distributed messaging, producer-consumer architecture, message processing, and queue management.
